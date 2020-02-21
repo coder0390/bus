@@ -1,0 +1,37 @@
+网页开发的零碎小知识
+
+<html lang = en></html> 
+html 是html文档
+language = english 设置语言 可输出中文 是否翻译该网页
+
+<meta charset="utf-8"/>
+元信息，不太懂
+charset 字符集
+
+<script></script>
+插入一段脚本
+type 脚本类型
+src 外部url（统一资源定位符）
+
+<p></p>
+段落
+
+<input />
+输入
+type定义类型
+
+<div></div>
+分块
+
+<table></table>
+定义一个表格
+<thead></thead> 表头
+<tr></tr> 一行
+<td colspan="7"></td> 一个单元格 colspan 可横跨列数
+<tbody></tbody> 表身 padding 内边距
+
+全局属性
+styele=" : ;  : "
+
+JavaScript编程语法比较简单
+变量、函数等概念并不复杂
