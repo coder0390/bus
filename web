@@ -35,3 +35,15 @@ styele=" : ;  : "
 
 JavaScript编程语法比较简单
 变量、函数等概念并不复杂
+注释同C
+
+document.getElementById().value
+直接看懂
+
+innerHTML直接看懂
+
+spilt(separator,howmany) 根据separator划分howmany个字符串
+
+alert()
+
+回调函数暂时理解为执行完一函数后自动执行的函数
